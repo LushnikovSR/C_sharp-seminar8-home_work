@@ -1,0 +1,15 @@
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\bin\Debug\net6.0\58.exe
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\bin\Debug\net6.0\58.deps.json
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\bin\Debug\net6.0\58.runtimeconfig.json
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\bin\Debug\net6.0\58.dll
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\bin\Debug\net6.0\58.pdb
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.csproj.AssemblyReference.cache
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.AssemblyInfoInputs.cache
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.AssemblyInfo.cs
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.csproj.CoreCompileInputs.cache
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.dll
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\refint\58.dll
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.pdb
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\58.genruntimeconfig.cache
+C:\Users\Lush\Documents\Learning\Цифровые профессии\Знакомство с языками программирования\C_sharp-seminar8-home_work\58\obj\Debug\net6.0\ref\58.dll
